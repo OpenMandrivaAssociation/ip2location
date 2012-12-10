@@ -92,3 +92,13 @@ rm -rf %{buildroot}
 %{_includedir}/*
 %{_libdir}/*.so
 
+
+
+%changelog
+* Sun May 15 2011 Oden Eriksson <oeriksson@mandriva.com> 4.0.2-1mdv2011.0
++ Revision: 674881
+- import ip2location
+
+
+* Sun May 15 2011 Oden Eriksson <oeriksson@mandriva.com> 4.0.2-1mdv2010.2
+- initial Mandriva package
