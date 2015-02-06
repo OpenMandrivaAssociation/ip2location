@@ -5,7 +5,7 @@
 Summary:	IP2Location C Library
 Name:		ip2location
 Version:	4.0.2
-Release:	%mkrel 1
+Release:	2
 Group:		System/Libraries
 License:	GPLv2
 URL:		http://www.ip2location.com/
