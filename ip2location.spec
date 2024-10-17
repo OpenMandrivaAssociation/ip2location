@@ -8,7 +8,7 @@ Version:	4.0.2
 Release:	2
 Group:		System/Libraries
 License:	GPLv2
-URL:		http://www.ip2location.com/
+URL:		https://www.ip2location.com/
 Source0:	http://www.ip2location.com/download/C-IP2Location-%{version}.tar.gz
 Patch0:		C-IP2Location-4.0.2-soname.diff
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
